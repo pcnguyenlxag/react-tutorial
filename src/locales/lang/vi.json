@@ -1,0 +1,24 @@
+{
+    "nav": {
+        "apps": "Apps",
+        "dashboard": "Báo cáo thống kê",
+        "appsCustomers": {
+            "customerManage": "Quản lý khách hàng",
+            "customerList": "Danh sách khách hàng",
+            "customerEdit": "Sửa khách hàng",
+            "customerNew": "Thêm khách hàng"
+        },
+        "appsOrders": {
+            "orderManage": "Quản lý đơn hàng",
+            "orderList": "Danh sách đơn hàng",
+            "orderEdit": "Sửa đơn hàng",
+            "orderNew": "Thêm đơn hàng"
+        },
+        "appsProducts": {
+            "productManage": "Quản lý sản phẩm",
+            "productList": "Danh sách sản phẩm",
+            "productEdit": "Sửa sản phẩm",
+            "productNew": "Thêm sản phẩm"
+        }
+    }
+}
